@@ -1,6 +1,7 @@
 # DeveloperHub-Data-Science Internship
-TASK # 01
-Titanic Project
+**TASK # 01**
+
+**Titanic Project**
 
 Summary of Findings and Observations:
 
