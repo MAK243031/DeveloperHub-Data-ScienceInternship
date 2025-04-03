@@ -1,7 +1,10 @@
-# DeveloperHub-Data-ScienceInternship
+# DeveloperHub-Data-Science Internship
 Titanic Project
+
 Summary of Findings and Observations:
+
 Objective:
+
 To explore and analyze the Titanic dataset to uncover patterns, trends, and insights about passengers that might influence survival rates.
 
 Key Findings:
